@@ -1,11 +1,14 @@
-/.idea/*
-*/target/
-*.project
-*.classpath
-*.settings
-*.mvn
-*.springBeans
+.classpath
 .project
-roncoo-pay.iml
+.settings/
+bin/
 
+**/target/
 
+.idea
+*.iml
+*.ipr
+*.iws
+out
+
+**/out/
